@@ -74,5 +74,5 @@ And the get all endpoint return all data
 
 ### TODO:
 
-- [] Use env vars in app
-- [] Add the update endpoint
+- [ ] Use env vars in app
+- [ ] Add the update endpoint
